@@ -8,10 +8,9 @@ The **Java Caching Service** is a lightweight caching system with configurable c
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Details](#api-details)
-- [License](#license)
+
+
+
 
 ---
 
