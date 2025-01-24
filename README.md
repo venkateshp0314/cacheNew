@@ -9,9 +9,6 @@ The **Java Caching Service** is a lightweight caching system with configurable c
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 
-
-
-
 ---
 
 ## Features
@@ -30,3 +27,5 @@ The **Java Caching Service** is a lightweight caching system with configurable c
 
 - **Java** – Core programming language for the caching service.
 - **Spring Boot
+
+  
