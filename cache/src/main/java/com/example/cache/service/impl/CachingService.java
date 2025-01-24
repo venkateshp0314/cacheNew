@@ -50,6 +50,7 @@ public class CachingService {
 		if (e1 == null) {
 			throw new CacheException("Cannot remove null entity.");
 		}
+		
 		try {
 			cache.remove(e1.getId());
 			lruCache.remove(e1.getId());
